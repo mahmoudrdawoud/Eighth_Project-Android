@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">مشروع برمجة تطبيقات الهواتف النقالة</string>
+
+    <string name="Username">اسم المستخدم</string>
+    <string name="BarithDay">تاريخ الميلاد</string>
+    <string name="Gender">الجنس</string>
+    <string name="Male">ذكر</string>
+    <string name="FeMale">انثى</string>
+    <string name="Hobbies">الهوايات</string>
+    <string name="Football">كرة القدم</string>
+    <string name="Tense">التنس</string>
+    <string name="Programming">البرمجة</string>
+    <string name="Running">الجري</string>
+    <string name="Email">الايميل</string>
+    <string name="Password">كلمة السر</string>
+    <string name="PasswordAgain">اعادة كلمة السر</string>
+    <string name="Save">حفظ</string>
+    <string name="Login">تسجيل دخول</string>
+    <string name="New_Admin">انشاء حساب جديد</string>
+
+    <string name="Welcome">أهلا وسهلا</string>
+
+
+
+</resources>

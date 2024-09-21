@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mobile application programming project</string>
+
+    <string name="Username">Username</string>
+    <string name="BarithDay">BirthDay</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="FeMale">FeMale</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="Football">Football</string>
+    <string name="Tense">Tense</string>
+    <string name="Programming">Programming</string>
+    <string name="Running">Running</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="PasswordAgain">Password(Again)</string>
+    <string name="Save">Save</string>
+    <string name="Login">Login</string>
+    <string name="New_Admin">New_Admin</string>
+
+    <string name="Welcome">Welcome</string>
+
+    <string-array name="unv">
+        <item>Aqsa</item>
+        <item>Isara</item>
+        <item>Igu</item>
+    </string-array>>
+
+
+
+
+</resources>
